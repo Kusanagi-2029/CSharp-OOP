@@ -1,0 +1,7 @@
+C:\Users\vanger_biburat\source\repos\OOP - Cs\OOP - Cs\bin\Debug\OOP - Cs.exe.config
+C:\Users\vanger_biburat\source\repos\OOP - Cs\OOP - Cs\bin\Debug\OOP - Cs.exe
+C:\Users\vanger_biburat\source\repos\OOP - Cs\OOP - Cs\bin\Debug\OOP - Cs.pdb
+C:\Users\vanger_biburat\source\repos\OOP - Cs\OOP - Cs\obj\Debug\OOP - Cs.csprojAssemblyReference.cache
+C:\Users\vanger_biburat\source\repos\OOP - Cs\OOP - Cs\obj\Debug\OOP - Cs.csproj.CoreCompileInputs.cache
+C:\Users\vanger_biburat\source\repos\OOP - Cs\OOP - Cs\obj\Debug\OOP - Cs.exe
+C:\Users\vanger_biburat\source\repos\OOP - Cs\OOP - Cs\obj\Debug\OOP - Cs.pdb
